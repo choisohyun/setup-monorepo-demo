@@ -12,7 +12,7 @@ export const App: React.FC = () => {
         <p>Hello Project One!</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
-            count is: {count}
+            Test count is: {count}
           </button>
         </p>
         <p>
